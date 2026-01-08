@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  project: one
+  content: MyText
+  rating: 1
+  sender_info: 
+
+two:
+  project: two
+  content: MyText
+  rating: 1
+  sender_info: 

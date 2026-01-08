@@ -1,0 +1,15 @@
+current directory: /home/arif/widget-rails/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+/home/arif/.rbenv/versions/3.0.6/bin/ruby -I /home/arif/.rbenv/versions/3.0.6/lib/ruby/3.0.0 -r ./siteconf20260109-6649-38th6z.rb extconf.rb
+creating Makefile
+
+current directory: /home/arif/widget-rails/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/arif/widget-rails/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/arif/widget-rails/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20260109-6649-rdpjwo/racc
